@@ -1,6 +1,6 @@
 # Algoritmos Auxiliares
 Códigos auxiliares diversos nas seguintes linguagens:
-- Pyhton
+- <a href='https://github.com/aasouzaconsult/Algoritmos-Auxiliares'>PYTHON</a>
 - <a href='https://1drv.ms/u/s!AtlsFPWf_b5KvDAtbg5jNPyDN9Hv?e=a2nXLw'>JAVA</a>
 - <a href='https://1drv.ms/u/s!AtlsFPWf_b5K8nnuUNDnCRGFNKvv?e=W7cpez'>PHP</a>
 
